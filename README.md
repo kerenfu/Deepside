@@ -2,7 +2,7 @@
 Results for our previous Neurocomputing paper "Deepside: A general deep framework for salient object detection"
 
 ## Results
-Results of Deepside on 7 benchmark datasets (XXX, XXX) can be found below:  
+Saliency maps of Deepside on 7 benchmark datasets (XXX, XXX) can be found below:  
 链接: https://pan.baidu.com/s/1UOmBfjQiNyp1FkfKJ5bovQ 提取码: xcjw  
 
 ## Citation
