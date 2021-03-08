@@ -1,4 +1,5 @@
 # Deepside
+About our previous Neurocomputing paper "Deepside: A general deep framework for salient object detection"
 ## Introduction
   In this paper, we review and draw underlying connections between existing architectures ((a)-(d)), and show that they actually could be unified into a general framework, which simply just has side structures with different depths. Based on the idea of designing deeper side structures for better detection accuracy, we propose a unified framework called Deepside that can be deeply supervised to incorporate hierarchical CNN features. 
   ![alt text](ExistingScheme.png)  
