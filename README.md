@@ -12,7 +12,7 @@ About our previous Neurocomputing paper "Deepside: A general deep framework for 
 Saliency maps of Deepside on 7 benchmark datasets (ASD, DUT-OMRON, DUTS, ECSSD, HKU-IS, PASCAL-S, SOC) can be found below:  
 链接: https://pan.baidu.com/s/1UOmBfjQiNyp1FkfKJ5bovQ 提取码: xcjw  
 or  
-GoogleLink
+https://drive.google.com/file/d/1ImJ8WpdS9C5PObt3fcDAy-rureV3C_Bw/view?usp=sharing
 
 References of datasets:  
 [ASD] Frequency-tuned salient region detection. In CVPR 2009.  
