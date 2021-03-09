@@ -12,6 +12,15 @@ About our previous Neurocomputing paper "Deepside: A general deep framework for 
 Saliency maps of Deepside on 7 benchmark datasets (ASD, DUT-OMRON, DUTS, ECSSD, HKU-IS, PASCAL-S, SOC) can be found below:  
 链接: https://pan.baidu.com/s/1UOmBfjQiNyp1FkfKJ5bovQ 提取码: xcjw  
 
+References of datasets:  
+[STERE] Leveraging stereopsis for saliency analysis. In CVPR 2012.  
+[NJU2K] Depth saliency based on anisotropic centersurround difference. In ICIP 2014.  
+[NLPR] Rgbd salient object detection: A benchmark and algorithms. In ECCV 2014.  
+[RGBD135] Depth enhanced saliency detection method. In International Conference on Internet Multimedia Computing and Service. ACM, 2014.  
+[LFSD] Saliency detection on light field. In CVPR 2014.  
+[DUT-RGBD] Depth-induced multi-scale recurrent attention network for saliency detection. In ICCV 2019.  
+[SIP] Rethinking RGB-D salient object detection: Models, datasets, and large-scale benchmarks. IEEE TNNLS, 2020.  
+
 ## Citation
     @article{Fu2019deepside,
       title={Deepside: A general deep framework for salient object detection},
